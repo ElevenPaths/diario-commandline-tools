@@ -1,0 +1,5 @@
+data/*
+!data/.placeholder
+logs/*
+!logs/.placeholder.diario.conf
+tags

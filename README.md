@@ -10,7 +10,7 @@ diario-commandline-client
 What is this?
 -------------
 
-A utiliy repository created to ease bulk [diario](https://diario.e-paths.com/) API consumption. Currently these functions are fully implemented:
+A utiliy repository created to ease bulk [diario](https://diario.elevenpaths.com/) API consumption. Currently these functions are fully implemented:
 
 - Upload a file (PDF or Microsoft Office document)
 - Upload a complete directory of files
@@ -28,11 +28,11 @@ Warning & Disclaimer
 
 Although DIARIO is supposed to upload just a part of the
 document to our servers—so you can be sure that your privacy is preserved
-(more information: [https://diario.e.-paths.com](https://diario.e.-paths.com)) — this script uploads the whole
+(more information: [https://diario.elevenpaths.com](https://diario.elevenpaths.com)) — this script uploads the whole
 document because it is assumed that it will be used for malware analyses.
 If you wish to upload a batch of documents and keep your privacy by uploading
 just a part of it, please use our Windows/Linux/Mac client with a user interface.
-It is available from [https://diario-.e-paths.com](https://diario-.e-paths.com)
+It is available from [https://diario.elevenpaths.com](https://diario.elevenpaths.com)
 
 
 Assumptions
